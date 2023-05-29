@@ -1,9 +1,9 @@
 ### Olá, eu sou a Isadora! 👋 
-#### Desenvolvedora de Software | Analista em Desenvolvimento e Gerenciamento de Projetos
+### Desenvolvedora de Software | Analista em Desenvolvimento e Gerenciamento de Projetos
 
-##### Tenho 21 anos, cresci em Fortaleza-CE e estagiei com tecnologias em 👩‍💻 back-end com Java (SpringBoot) e front-end com TypeScript (Angular) Além disso, adquiri 🔧 Conhecimento em Git/GitLab e metodologias ágeis de Scrum e 🧪 Habilidades em testes e integrações usando PostgreSQL, Dbeaver e Postman. 
-##### 🎓 Cursando Análise e Desenvolvimento de Sistemas, onde estou aprofundando meus conhecimentos em Banco de Dados, principalmente em MySQL, e também me aprimorando em POO, e 🔬 Atuando como Pesquisadora Científica. 
-##### 👩‍💻 Formação Iniciante em Programação T5, através de cursos na plataforma Alura com Oracle Next Education (ONE) (estudo FullStack)
+#### Tenho 21 anos, cresci em Fortaleza-CE e estagiei com tecnologias em 👩‍💻 back-end com Java (SpringBoot) e front-end com TypeScript (Angular) Além disso, adquiri 🔧 Conhecimento em Git/GitLab e metodologias ágeis de Scrum e 🧪 Habilidades em testes e integrações usando PostgreSQL, Dbeaver e Postman. 
+#### 🎓 Cursando Análise e Desenvolvimento de Sistemas, onde estou aprofundando meus conhecimentos em Banco de Dados, principalmente em MySQL, e também me aprimorando em POO, e 🔬 Atuando como Pesquisadora Científica. 
+#### 👩‍💻 Formação Iniciante em Programação T5, através de cursos na plataforma Alura com Oracle Next Education (ONE) (estudo FullStack)
 
 #### :star:	 Essas são as tecnologias que mais tenho conhecimento atualmente:
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
