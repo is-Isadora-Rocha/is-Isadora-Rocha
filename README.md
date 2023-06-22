@@ -1,29 +1,34 @@
-### Olá, eu sou a Isadora! 👋 
-> ### Desenvolvedora de Software | Analista em Desenvolvimento e Gerenciamento de Projetos 
+### Bem vindo ao meu perfil GitHub
 
-#### Tenho 21 anos, estagiei com tecnologias em 👩‍💻 back-end com Java (SpringBoot) e front-end com TypeScript (Angular) Além disso, adquiri 🔧 Conhecimento em Git/GitLab e metodologias ágeis de Scrum e 🧪 Habilidades em testes e integrações usando PostgreSQL, Dbeaver e Postman. 
-#### 🎓 Cursando Análise e Desenvolvimento de Sistemas, onde estou aprofundando meus conhecimentos em Banco de Dados, principalmente em MySQL, e também me aprimorando em POO, e 🔬 Atuando como Pesquisadora Científica. 
-#### 👩‍💻 Formação Iniciante em Programação T5, através de cursos na plataforma Alura com Oracle Next Education (ONE) (estudo FullStack)
-
-#### :star:	 Essas são as tecnologias que mais tenho conhecimento atualmente:
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-
-#### 🔧 Ferramentas:
-![IntelliJ](https://img.shields.io/badge/-intellij%20Idea-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=007ACC&labelColor=0D1117)&nbsp;
-
-#### 📚 Estudando:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
+<div>
+<a href="https://github.com/is-Isadora-Rocha">
+</div>
 
 
-#### Você pode me encontrar por aqui:
-<a href="https://www.linkedin.com/in/is-isadora-rocha/">
-<img src="https://img.shields.io/badge/social-linkedin-blue?style=for-the-badge&logo=linkedin" href=>
-</a>
+## Tecnologias
+<div style="display: inline_block"><br>
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50"/>
+
+</div>
+
+## Ferramentas
+<div style="display: inline_block"><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50"/>
+
+</div>
+  
+ ## Contatos
+ <div>
+  <a href = "mailto:is.isadora.rocha@gmail.com"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16-1536x1152.png" width='50' height='50'></a>
+  <a href="https://www.linkedin.com/in/is-Isadora-Rocha" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width='50' height='50'></a>
+</div>
