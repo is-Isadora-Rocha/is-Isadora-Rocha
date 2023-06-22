@@ -29,6 +29,5 @@
   
  ## Contatos
  <div>
-  <a href = "mailto:is.isadora.rocha@gmail.com"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16-1536x1152.png" width='50' height='50'></a>
   <a href="https://www.linkedin.com/in/is-Isadora-Rocha" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width='50' height='50'></a>
 </div>
