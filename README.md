@@ -16,6 +16,11 @@
 
 </div>
 
+<div align="left">
+  <a href="https://github.com/is-Isadora-Rocha">
+  <img height="170em"  width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7rik&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
 ## Ferramentas
 <div style="display: inline_block"><br>
 
