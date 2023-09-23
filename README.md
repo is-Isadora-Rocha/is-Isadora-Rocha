@@ -28,7 +28,7 @@ Sou desenvolvedora backend Java com Springboot e estou na jornada FullStack com 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50"/>
-and Elipse too!
+and Eclipse EE too!
 </div>
 
 ## 🔗 Links
