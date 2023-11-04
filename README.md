@@ -1,9 +1,11 @@
 
 # Olá, eu sou a Isadora! 👋
 
+##### Disciplina é manter uma consistência em suas ações (continuar a fazer, não desistir), mesmo se você não tiver vontade pra fazer
+
 
 ## 🚀 Sobre mim
-Sou desenvolvedora backend Java com Springboot e estou na jornada FullStack com Java + Angular. Estou há 1 ano e meio nessa área e estou desenvolvendo aplicações web na faculdade. 
+Sou desenvolvedora backend Java com Springboot. Estou há 1 ano e meio nessa área e estou desenvolvendo aplicações web na faculdade. 
 
 
 ## 🛠 Habilidades
