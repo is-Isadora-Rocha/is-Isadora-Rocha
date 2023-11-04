@@ -1,7 +1,7 @@
 
 # Olá, eu sou a Isadora! 👋
 
-##### Disciplina é manter uma consistência em suas ações (continuar a fazer, não desistir), mesmo se você não tiver vontade pra fazer
+#### Disciplina é manter uma consistência em suas ações (continuar a fazer, não desistir), mesmo se você não tiver vontade pra fazer
 
 
 ## 🚀 Sobre mim
