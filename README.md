@@ -3,13 +3,17 @@
 
 #### Disciplina é manter uma consistência em suas ações (continuar a fazer, não desistir), mesmo se você não tiver vontade pra fazer
 
-
 ## 🚀 Sobre mim
-Sou desenvolvedora backend Java com Springboot. Estou há 1 ano e meio nessa área e estou desenvolvendo aplicações web na faculdade. 
+Sou desenvolvedora backend <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" idth="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="30" height="30"/>. 
+Atualmente estou atuando como Analista de Desenvolvimento de Sistemas e meus estudos estão focados em Ruby. 
 
 
 ## 🛠 Habilidades
 <div style="display: inline_block"><br>
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" idth="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
@@ -18,19 +22,15 @@ Sou desenvolvedora backend Java com Springboot. Estou há 1 ano e meio nessa ár
 
 </div>
 
-<div align="left">
-  <a href="https://github.com/is-Isadora-Rocha">
-  <img height="170em"  width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7rik&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
 ## Ferramentas
 <div style="display: inline_block"><br>
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50"/>
-and Eclipse EE too!
 </div>
 
 ## 🔗 Links
