@@ -6,7 +6,7 @@
 ## 🚀 Sobre mim
 Sou desenvolvedora backend <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" idth="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg"  width="30" height="30"/> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="30" height="30"/> 
            
-Atualmente estou atuando como Analista de Desenvolvimento de Sistemas e meus estudos estão focados em Ruby e Rails. 
+Atualmente meus estudos estão focados em Ruby e Rails. 
 
 
 ## 🛠 Habilidades
