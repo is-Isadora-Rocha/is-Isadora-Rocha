@@ -7,16 +7,6 @@ Atualmente meus estudos estão focados em Ruby e Rails. <img src="https://cdn.js
 No tempo livre gosto de jogar (single player), assistir filmes e fazer musculação.
 Estou me dedicando a aprender cada dia mais, não somente no backend, e sim especializar em FullStack.
 
-### Ferramentas
-<div style="display: inline_block"><br>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="50" height="50"/>
-</div>
-
 ### 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srochaisadora)
 
