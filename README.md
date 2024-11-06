@@ -5,8 +5,8 @@ Sou de Caucaia, CE.
 
 
 #### EXPERIÊNCIAS
-Java | Springboot | Ruby | Rails
-Docker | MySQL | Postgresql 
+Java | Springboot | Ruby | Rails | 
+Docker | MySQL | Postgresql | 
 Postman | API Dog
 
 #### FACULDADE
