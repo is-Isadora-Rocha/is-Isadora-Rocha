@@ -1,7 +1,16 @@
 
 ### Olá, sou a Isadora! 👋 | Software Developer Junior
 
-Sou de Caucaia, CE. 
+Sou de Caucaia, CE.
+
+
+#### EXPERIÊNCIAS
+Java | Springboot | Ruby | Rails
+Docker | MySQL | Postgresql 
+Postman | API Dog
+
+#### FACULDADE
+UX / UI | DESIGN PATTERNS | DIAGRAMA DE SEQUÊNCIA | METODOLOGIAS ÁGEIS
 
 Além de programar, amo cachorros, adoro fazer musculação, ler (psicanálise e mente humana) e assistir filmes e, gameplays de terror. 
 
