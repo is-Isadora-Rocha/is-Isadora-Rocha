@@ -7,7 +7,10 @@ Sou de Caucaia, CE.
 #### EXPERIÊNCIAS
 Java | Springboot | Ruby | Rails | 
 Docker | MySQL | Postgresql | 
-Postman | API Dog
+Postman | Nest.js | Typescript
+
+
+Atualmente estou estudando Nest.js|Typescript & Angular
 
 #### OUTROS
 UX / UI | DESIGN PATTERNS | DIAGRAMA DE SEQUÊNCIA | METODOLOGIAS ÁGEIS
