@@ -1,5 +1,5 @@
 
-### Olá, sou a Isadora! 👋 | Software Developer Junior
+### Olá, sou a Isadora! 👋 | Software Developer Rails Junior
 
 Sou de Caucaia, CE.
 
@@ -10,14 +10,10 @@ Docker | MySQL | Postgresql |
 Postman | Nest.js | Typescript
 
 
-Atualmente estou estudando Nest.js|Typescript & Angular
+Atualmente estou dedicando meus estudos ao Ruby on Rails
 
-#### OUTROS
-UX / UI | DESIGN PATTERNS | DIAGRAMA DE SEQUÊNCIA | METODOLOGIAS ÁGEIS
-
-Além de programar, amo cachorros, adoro fazer musculação, ler (psicanálise e mente humana) e assistir filmes e, gameplays de terror. 
-
-Me dedico todos os dias para ser boa programadora e solução de problemas. Estou aberta a aprender coisas novas e ingressar em novas oportunidades de crescimento! 
+#### ESTUDANDO TAMBÉM...
+DESIGN PATTERNS | EXPERIÊNCIA DE USUÁRIO | METODOLOGIAS ÁGEIS
 
 ### 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srochaisadora)
